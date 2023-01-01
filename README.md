@@ -7,12 +7,15 @@ This is a 2-player tic-tac-toe game played on a 3x3 grid. The first player to ge
 Screenshots:
 
 1. Starting game:
+
 ![start_game](https://user-images.githubusercontent.com/12138053/210168479-dafa76b0-dd41-44ea-b17d-733983f3d851.png)
 
 2. Both players continue to fill their boxes:
+
 ![game_continue](https://user-images.githubusercontent.com/12138053/210168490-e803b80a-2658-45e8-b203-be23cd5d4504.png)
 
 3. The game continues either one of the players win or game ends in draw
+
 ![game_finish](https://user-images.githubusercontent.com/12138053/210168506-50ca584c-e19c-4619-851c-e6d619b45c83.png)
 
 Future improvements and Ideas:
